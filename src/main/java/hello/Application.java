@@ -13,7 +13,7 @@ public class Application {
 	@RequestMapping("/hello")
     public String home() {
         // return System.getenv("TEST");
-		return "Hello World 2010";
+		return "Hello World 2010XX";
     }
 
 	public static void main(String[] args) {
